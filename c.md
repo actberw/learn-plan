@@ -1,7 +1,7 @@
 ### C学习计划
 1. 基础教程 
  - How to Think Like a Computer Scientist: C version(dropbox) (done)
- - C程序设计语言 
+ - C程序设计语言 (doing)
  - linux C 编程一站式学习
  - 征服C指针
  - C专家编程
@@ -20,6 +20,11 @@
  - 程序员实用算法
  - 算法导论
  - 编程珠玑
+ - 编程之美
+ - [http://shentar.me/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E7%AE%97%E6%B3%95%E8%A7%A3%E5%86%B3%E8%90%A5%E6%95%91%E5%85%AC%E4%B8%BB%E9%97%AE%E9%A2%98/](http://shentar.me/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E7%AE%97%E6%B3%95%E8%A7%A3%E5%86%B3%E8%90%A5%E6%95%91%E5%85%AC%E4%B8%BB%E9%97%AE%E9%A2%98/)
+
+ - [http://blog.csdn.net/feixiaoxing/article/category/878822/4](http://blog.csdn.net/feixiaoxing/article/category/878822/4)
+ - [http://blog.fishc.com/category/structure](http://blog.fishc.com/category/structure)
 
 5. linux编程
  - LINUX UNIX设计思想
@@ -42,5 +47,6 @@
       - How To Become A Hacker
       - Homesteading the Noosphere
       - The Magic Cauldron
+
  - [http://www.c4learn.com/](http://www.c4learn.com/)
  - 编译原理
