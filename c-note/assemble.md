@@ -20,4 +20,3 @@
 - http://oss.org.cn/kernel-book/ch02/2.6.1.htm
 - http://www.ibm.com/developerworks/cn/linux/l-assembly/
 - http://learn.akae.cn/media/ch18s01.html
-- http://www.cnblogs.com/BoyXiao/archive/2010/11/20/1882716.html
