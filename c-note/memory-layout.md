@@ -6,8 +6,9 @@
  - heap
  - Uninitialized data segment(.bbs)
  - Initialized data segment(.data)
- - 代码去(.text) 
+ - 代码区(.text) 
 
+ ![memory layout](./img/linux进程地址空间.jpg)
 
 每个区间都有四个属性:
 
