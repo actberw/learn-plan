@@ -5,7 +5,8 @@
 - 编译(Compiling)
 - 汇编(Assembling)
 - 链接(Linking)
-     pre-processing     compiling          assembling         linking
- \.c --------------> .i --------------> .s --------------> .o ------------> binary
-     (cpp / gcc -E)     (cc / gcc -S )     (as / gcc -c)      (ld)
+
+             pre-processing     compiling          assembling         linking  
+         .c --------------> .i --------------> .s --------------> .o ------------> binary  
+             (cpp / gcc -E)     (cc / gcc -S )     (as / gcc -c)      (gcc / ld)  
 
