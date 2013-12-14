@@ -9,9 +9,15 @@
     - Autoheader
     - Automake
     - Libtool
-
+ - glibc
 2. makefile编写参见pdf(跟我一起写Makefile)
-3. binutils 包含的命令 
+3. gcc
+ - 功能: 高级语言(.c, .cpp, .F) -> (.s)
+ - 组成: 一些可执行程序 + 库 (例如:cpp, gcc, g++)
+
+4. binutils
+ - 功能: 汇编语言(.s) -> 目标文件 -> 可执行程序, 查看二进制文件信息
+ - 组成: 包含的命令:
 
   command | desc
   ----|------
@@ -35,7 +41,22 @@
   windmc  | generates Windows message resources
   windres | compiler for Windows resource files    
 
-4. autotools(refer#1)
+5. autotools(refer#1)
+6. glibc
+ - 功能: 提供语言和操作系统的标准函数库
+ - 组成: 一些命令 + 大量库(例如: ldd, iconv, locale, posix)
+
+7. 文件扩展名的默认含义
+
+  扩展名 | 含义
+  -------|--------
+  .c, .cc| 需要预处理
+  .i, .ii| 不需要预处理
+  .S     | 需要预处理的汇编
+  .s     | 不需要与处理的汇编
+  .o     | 目标文件
+  .a     | 静态库
+  .s     | 动态库
 
 ####refer:
 - http://blog.csdn.net/scucj/article/details/6079052
