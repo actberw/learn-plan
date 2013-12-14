@@ -13,6 +13,7 @@
 2. makefile编写参见pdf(跟我一起写Makefile)
 3. binutils 包含的命令 
 
+  command | desc
   ----|------
   as      | assembler popularly known as GAS (Gnu ASsembler)
   ld      | linker
