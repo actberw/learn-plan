@@ -4,7 +4,7 @@
  - stack
  - shared lib
  - heap
- - Uninitialized data segment(.bbs)
+ - Uninitialized data segment(.bbs(Block Started by Symbol))
  - Initialized data segment(.data)
  - 代码区(.text) 
 
