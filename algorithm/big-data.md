@@ -1,0 +1,11 @@
+###海量数据算法
+http://www.cnblogs.com/xudong-bupt/archive/2013/03/20/2971262.html
+http://blog.csdn.net/v_JULY_v/article/details/6403777
+http://blog.csdn.net/acceptedxukai/article/details/9158121
+http://blog.csdn.net/acceptedxukai/article/details/9025493
+http://www.cnblogs.com/dongxi/archive/2012/11/07/2758045.html
+http://blog.csdn.net/hit_kongquan/article/category/782853
+http://blog.csdn.net/hit_kongquan/article/details/6255673
+http://lanceyan201357.iteye.com/blog/1930819
+http://blogread.cn/it/article/4943?f=wb
+http://blog.csdn.net/jiaomeng/article/details/1496329

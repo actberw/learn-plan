@@ -32,7 +32,7 @@
 
 10. ATTENTION: The older C89 standard allows variable declarations only at the beginning of a block of code. It is therefore necessary to put variable declarations before any other statements, even if the variable itself is only needed much later in your program.
 
-11. Declaration adn Assignment
+11. Declaration and Assignment
  - When you declare a variable, you create a named storage location.
  - When you make an assignment to a variable, you give it a value.
  - A variable is defined when the compiler allocates the storage for the variable.
